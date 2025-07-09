@@ -3,8 +3,8 @@
 This project explores unsupervised learning on a large-scale music dataset from `Spotify`, containing over **1.2 million tracks**. By leveraging audio features such as danceability, energy, and tempo, the goal is to group songs into meaningful clusters and uncover hidden patterns in musical characteristics.
 
 > Spotify Tracks Dataset (1.2M+ songs with audio features)<br>
-> Original Source: <a href="https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs">Kaggle (Rodolfo Figueroa)</a>
-> Note:  have manually deleted few columns from original dataset which were not useful according to me.
+> Original Source: <a href="https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs">Kaggle (Rodolfo Figueroa)</a><br>
+> Note: I have manually deleted few columns from original dataset which were not useful according to me.
 
 ---
 
