@@ -10,7 +10,7 @@ This project explores unsupervised learning on a large-scale music dataset from 
 
 ## 📌 Objective
 
-To cluster Spotify songs based on their audio features using `**K-Means**`, identify the optimal number of clusters using the `**Elbow Method**`, and assign intuitive names to each cluster by analyzing representative songs.
+To cluster Spotify songs based on their audio features using `K-Means`, identify the optimal number of clusters using the `Elbow Method`, and assign intuitive names to each cluster by analyzing representative songs.
 
 ---
 
@@ -28,6 +28,12 @@ To cluster Spotify songs based on their audio features using `**K-Means**`, iden
 - Successfully grouped tracks into distinct musical categories
 - Provided clear visualizations of the Elbow curve and cluster distributions
 - Analyzed the number of songs in each custom-named cluster to interpret the overall structure of the Spotify dataset
+
+| Metrics | Values |
+|---------|--------|
+|Calinski-Harabasz Score|`~ 236753.94`|
+|Davies-Bouldin Score|`~ 1.21`|
+|Silhouette Score|`~ 0.30`|
 
 ---
 
