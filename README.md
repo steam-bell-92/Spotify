@@ -4,7 +4,7 @@ This project explores unsupervised learning on a large-scale music dataset from 
 
 > Spotify Tracks Dataset (1.2M+ songs with audio features)<br>
 > Original Source: <a href="https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs">Kaggle (Rodolfo Figueroa)</a><br>
-> Note: I have manually deleted few columns from original dataset which were not useful according to me.
+> Note: I have manually deleted few columns from original dataset which were not useful & increased the dataset size significantly according to me.
 
 ---
 
@@ -33,4 +33,15 @@ To cluster Spotify songs based on their audio features using `**K-Means**`, iden
 
 ## 📁 File Structure
 
+```
+Spotify/
+│
+├── Spotify-Clusters.ipynb    🔹 Jupyter notebook containing entire ML Workflow
+|
+└── README.md                 🔹 This file !!
+```
+
 ---
+
+## 👤 Author
+Anuj Kulkarni - aka - steam-bell-92
