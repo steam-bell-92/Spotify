@@ -43,7 +43,7 @@ To cluster Spotify songs based on their audio features using `K-Means`, identify
 Spotify/
 │
 ├── Spotify-Clusters.ipynb    🔹 Jupyter notebook containing entire ML Workflow
-|
+├── Spotify-Clusters.py       🔹 Python File
 └── README.md                 🔹 This file !!
 ```
 
