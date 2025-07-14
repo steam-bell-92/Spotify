@@ -47,6 +47,7 @@ Spotify/
 ├── Spotify-Clusters.ipynb    🔹 Jupyter notebook containing entire ML Workflow
 ├── Spotify-Clusters.py       🔹 Python File
 ├── newplot.png               🔹 Result Image
+├── LICENSE                   🔹 MIT License
 └── README.md                 🔹 This file !!
 ```
 
