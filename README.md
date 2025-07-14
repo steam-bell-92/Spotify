@@ -35,6 +35,8 @@ To cluster Spotify songs based on their audio features using `K-Means`, identify
 |Davies-Bouldin Score|`~ 1.21`|
 |Silhouette Score|`~ 0.30`|
 
+<img src='https://github.com/steam-bell-92/Spotify/blob/main/newplot.png'>
+
 ---
 
 ## 📁 File Structure
@@ -44,6 +46,7 @@ Spotify/
 │
 ├── Spotify-Clusters.ipynb    🔹 Jupyter notebook containing entire ML Workflow
 ├── Spotify-Clusters.py       🔹 Python File
+├── newplot.png               🔹 Result Image
 └── README.md                 🔹 This file !!
 ```
 
